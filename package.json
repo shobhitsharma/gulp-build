@@ -1,0 +1,32 @@
+{
+  "name": "gulp-build",
+  "version": "0.0.1",
+  "description": "A frontend build script including compressing HTML, CSS/LESS/SASS and JS/ES6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shobhitsharma/gulp-build.git"
+  },
+  "keywords": [
+    "gulp",
+    "build",
+    "build",
+    "script",
+    "less",
+    "sass",
+    "js",
+    "es6"
+  ],
+  "author": "Shobhit Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shobhitsharma/gulp-build/issues"
+  },
+  "homepage": "https://github.com/shobhitsharma/gulp-build",
+  "dependencies": {
+    "npm-registry": "0.1.13"
+  }
+}
